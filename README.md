@@ -5,17 +5,16 @@
 
 - 🔭 &nbsp; I’m currently learning  Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🎓 &nbsp; Studying BCA, computer programming.
+- 🌱 &nbsp; Enthusiast in cyber Security.
+- ✍️ &nbsp; trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  Java | C++  
+- 💻 &nbsp;  Java | C++ | Cyber Security 
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp;  Firebase |
+- 🛢 &nbsp;  Pentester 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
 
