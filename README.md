@@ -16,7 +16,7 @@
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp;  Pentester 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
-
+    <script src="https://tryhackme.com/badge/859837"></script>
 
 <br>
 
